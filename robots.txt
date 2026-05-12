@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alekspetrakov.github.io/sitemap.xml
